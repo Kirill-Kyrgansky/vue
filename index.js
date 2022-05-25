@@ -1,4 +1,3 @@
-import vue.js
 const Counter = {
     data() {
         return {
